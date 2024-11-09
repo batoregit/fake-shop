@@ -14,7 +14,7 @@ spec:
    spec: 
      containers:
      - name: conversao-distancia-1
-       image: batore/conversao-distancia-1:latest
+       image: batoregit/conversao-distancia-1:latest
        ports: 
         - containerPort: 5000
 ---
